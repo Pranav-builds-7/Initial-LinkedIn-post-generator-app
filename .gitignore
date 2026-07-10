@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pdf
+
+academics_handbook.pdf
+fee_structure.pdf
+
+conditional_RAG.py
+HITL..py
+parallel_reducer.py
+sequential_base.py
+states.py
+academics_handbook.pdf
+fee_structure.pdf
